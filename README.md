@@ -35,6 +35,9 @@ A frontend website created for an educational institution using HTML and CSS.
 
 A simple Python game where the player plays against the computer.
 
+## Live Website
+https://sruthi-reddy-portfolio.netlify.app/
+
 ## Author
 
 Sruthi Reddy
